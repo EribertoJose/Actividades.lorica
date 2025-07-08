@@ -1,0 +1,16 @@
+ body{
+            background-color:rgb(243, 197, 222);
+            font-family: Arial, sans-serif;
+        }
+button{
+    background-color: rgb(255, 105, 180);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;    
+}
+button:hover {
+    background-color: rgb(12, 50, 219);
+    color: white;
+}
